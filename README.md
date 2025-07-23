@@ -1,4 +1,5 @@
 Projeto de Banco de Dados Acadêmico
+---
 Esse projeto representa um sistema básico para uma faculdade, organizando dados de alunos, professores, cursos e disciplinas. A ideia é mostrar como essas informações se conectam de forma estruturada e eficiente.
 ---
 
